@@ -11,3 +11,7 @@ Uml
 design patern oop
 
 Latex
+
+SQL
+
+AI
